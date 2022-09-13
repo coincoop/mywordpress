@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Car</title>
+	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://coincoop.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Tue, 30 Aug 2022 07:00:55 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>demo</title>
+		<link>https://coincoop.github.io/mywordpress/2022/08/30/demo/</link>
+					<comments>https://coincoop.github.io/mywordpress/2022/08/30/demo/#respond</comments>
+		
+		<dc:creator><![CDATA[lenguyenhaithuy]]></dc:creator>
+		<pubDate>Tue, 30 Aug 2022 07:00:55 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://coincoop.github.io/mywordpress/?p=41</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://coincoop.github.io/mywordpress/2022/08/30/demo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://coincoop.github.io/mywordpress/2022/08/23/chao-moi-nguoi/</link>
+					<comments>https://coincoop.github.io/mywordpress/2022/08/23/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[lenguyenhaithuy]]></dc:creator>
+		<pubDate>Tue, 23 Aug 2022 06:14:59 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://coincoop.github.io/mywordpress/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coincoop.github.io/mywordpress/2022/08/23/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
