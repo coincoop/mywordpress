@@ -11,7 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/storage-backpacks/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincoop.github.io/mywordpress/san-pham/storage-backpacks/</link>
 	<description></description>
+<<<<<<< HEAD
 	<lastBuildDate>Tue, 18 Oct 2022 06:56:07 +0000</lastBuildDate>
+=======
+	<lastBuildDate>Tue, 11 Oct 2022 13:54:38 +0000</lastBuildDate>
+>>>>>>> 1d65eddbcf29cda8c69901866526e3f5f087f8cb
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
