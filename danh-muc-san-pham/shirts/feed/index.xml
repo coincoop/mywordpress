@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/shirts/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincoop.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Tue, 18 Oct 2022 07:12:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Oct 2022 16:03:46 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,13 +20,81 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>BAPE Logo One Point Tee</title>
+		<link>https://coincoop.github.io/mywordpress/san-pham/bape-logo-one-point-tee/</link>
+					<comments>https://coincoop.github.io/mywordpress/san-pham/bape-logo-one-point-tee/#respond</comments>
+		
+		<dc:creator><![CDATA[lenguyenhaithuy]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2022 15:54:33 +0000</pubDate>
+				<guid isPermaLink="false">https://coincoop.github.io/mywordpress/?post_type=product&#038;p=735</guid>
+
+					<description><![CDATA[Delivery Free shipping on orders over US$250 Standard Delivery: Orders are delivered by FedEx within4-6 business days, not inclusive of Public Holidays. Returns &#38; Exchange All sales are final. BAPE does not accept requests for cancellation of orders or the return of items.]]></description>
+										<content:encoded><![CDATA[<div id="shipping" class="pdp-content__shipping">
+<div class="content-asset">
+<div class="accordion">Delivery</div>
+<div class="panel panel-delivery">
+<p><i class="iconfont-shipping delivery-icon"></i>Free shipping on orders over US$250</p>
+<p>Standard Delivery: Orders are delivered by FedEx within<br class="visually-desktop" />4-6 business days, not inclusive of Public Holidays.</p>
+</div>
+</div>
+</div>
+<div id="returns-exchange" class="pdp-content__returns">
+<div class="content-asset">
+<div class="accordion">Returns &amp; Exchange</div>
+<div class="panel">
+<p>All sales are final. BAPE does not accept requests for cancellation of orders or the return of items.</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coincoop.github.io/mywordpress/san-pham/bape-logo-one-point-tee/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BAPE Logo Tee</title>
+		<link>https://coincoop.github.io/mywordpress/san-pham/bape-logo-tee/</link>
+					<comments>https://coincoop.github.io/mywordpress/san-pham/bape-logo-tee/#respond</comments>
+		
+		<dc:creator><![CDATA[lenguyenhaithuy]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2022 15:50:10 +0000</pubDate>
+				<guid isPermaLink="false">https://coincoop.github.io/mywordpress/?post_type=product&#038;p=721</guid>
+
+					<description><![CDATA[Delivery Free shipping on orders over US$250 Standard Delivery: Orders are delivered by FedEx within4-6 business days, not inclusive of Public Holidays. Returns &#38; Exchange All sales are final. BAPE does not accept requests for cancellation of orders or the return of items.]]></description>
+										<content:encoded><![CDATA[<div id="shipping" class="pdp-content__shipping">
+<div class="content-asset">
+<div class="accordion">Delivery</div>
+<div class="panel panel-delivery">
+<p><i class="iconfont-shipping delivery-icon"></i>Free shipping on orders over US$250</p>
+<p>Standard Delivery: Orders are delivered by FedEx within<br class="visually-desktop" />4-6 business days, not inclusive of Public Holidays.</p>
+</div>
+</div>
+</div>
+<div id="returns-exchange" class="pdp-content__returns">
+<div class="content-asset">
+<div class="accordion">Returns &amp; Exchange</div>
+<div class="panel">
+<p>All sales are final. BAPE does not accept requests for cancellation of orders or the return of items.</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coincoop.github.io/mywordpress/san-pham/bape-logo-tee/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>SUMMER T-SHIRT</title>
 		<link>https://coincoop.github.io/mywordpress/san-pham/summer-t-shirt/</link>
 					<comments>https://coincoop.github.io/mywordpress/san-pham/summer-t-shirt/#respond</comments>
 		
 		<dc:creator><![CDATA[lenguyenhaithuy]]></dc:creator>
-		<pubDate>Tue, 18 Oct 2022 07:12:33 +0000</pubDate>
-				<guid isPermaLink="false">https://coincoop.github.io/mywordpress/?post_type=product&#038;p=591</guid>
+		<pubDate>Tue, 11 Oct 2022 15:39:16 +0000</pubDate>
+				<guid isPermaLink="false">https://coincoop.github.io/mywordpress/?post_type=product&#038;p=588</guid>
 
 					<description><![CDATA[This is a simple product.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-6b151a1 elementor-widget elementor-widget-ube-heading" data-id="6b151a1" data-element_type="widget" data-widget_type="ube-heading.default">
@@ -51,7 +119,7 @@
 <li>Full coverage</li>
 <li>Soft yet sturdy construction with four-way stretch</li>
 </ul>
-<p><img class="alignnone size-full wp-image-592" src="https://coincoop.github.io/mywordpress/wp-content/uploads/2022/10/product-09.jpg" alt="" width="586" height="834" /></p>
+<p><img class="alignnone size-full wp-image-589" src="https://coincoop.github.io/mywordpress/wp-content/uploads/2022/10/product-09.jpg" alt="" width="586" height="834" /></p>
 </div>
 </div>
 </div>
