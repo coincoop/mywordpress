@@ -12,11 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/summer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincoop.github.io/mywordpress</link>
 	<description></description>
-<<<<<<< HEAD
 	<lastBuildDate>Tue, 18 Oct 2022 07:12:33 +0000</lastBuildDate>
-=======
-	<lastBuildDate>Tue, 11 Oct 2022 15:42:02 +0000</lastBuildDate>
->>>>>>> 1d65eddbcf29cda8c69901866526e3f5f087f8cb
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,65 +20,13 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-<<<<<<< HEAD
-=======
-		<title>UNIQUE YARN HANDBAG</title>
-		<link>https://coincoop.github.io/mywordpress/san-pham/unique-yarn-handbag/</link>
-					<comments>https://coincoop.github.io/mywordpress/san-pham/unique-yarn-handbag/#respond</comments>
-		
-		<dc:creator><![CDATA[lenguyenhaithuy]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 15:42:00 +0000</pubDate>
-				<guid isPermaLink="false">https://coincoop.github.io/mywordpress/?post_type=product&#038;p=602</guid>
-
-					<description><![CDATA[This is a simple product.]]></description>
-										<content:encoded><![CDATA[<div class="elementor-element elementor-element-483ec5e elementor-widget elementor-widget-ube-heading" data-id="483ec5e" data-element_type="widget" data-widget_type="ube-heading.default">
-<div class="elementor-widget-container">
-<div class="ube-heading">
-<h2 class="ube-heading-title">DESCRIPTION</h2>
-<div class="ube-heading-description">Medium-support sports bra with strategic support for moderate-impact sports. The front has good support and fits very well thanks to the preformed cups and fine layer of foam that covers the entire front. Double fabric layer at the back of the top with a racer back for better support during exercise.</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-886bcb4 elementor-widget elementor-widget-ube-heading" data-id="886bcb4" data-element_type="widget" data-widget_type="ube-heading.default">
-<div class="elementor-widget-container">
-<div class="ube-heading">
-<h2 class="ube-heading-title">BENEFITS</h2>
-<div class="ube-heading-description">
-<ul class="pl-4">
-<li>Made from 79% recycled plastic bottles (RPET) and 21% spandex</li>
-<li>Recyclable with ReGirlfriend</li>
-<li>Designed for low-impact workouts</li>
-<li>High neck</li>
-<li>Adjustable criss-cross straps</li>
-<li>Full coverage</li>
-<li>Soft yet sturdy construction with four-way stretch</li>
-</ul>
-<p><img class="alignnone size-full wp-image-603" src="https://coincoop.github.io/mywordpress/wp-content/uploads/2022/10/product-03.jpg" alt="" width="586" height="834" /></p>
-</div>
-</div>
-</div>
-</div>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coincoop.github.io/mywordpress/san-pham/unique-yarn-handbag/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
->>>>>>> 1d65eddbcf29cda8c69901866526e3f5f087f8cb
 		<title>SUMMER T-SHIRT</title>
 		<link>https://coincoop.github.io/mywordpress/san-pham/summer-t-shirt/</link>
 					<comments>https://coincoop.github.io/mywordpress/san-pham/summer-t-shirt/#respond</comments>
 		
 		<dc:creator><![CDATA[lenguyenhaithuy]]></dc:creator>
-<<<<<<< HEAD
 		<pubDate>Tue, 18 Oct 2022 07:12:33 +0000</pubDate>
 				<guid isPermaLink="false">https://coincoop.github.io/mywordpress/?post_type=product&#038;p=591</guid>
-=======
-		<pubDate>Tue, 11 Oct 2022 15:39:16 +0000</pubDate>
-				<guid isPermaLink="false">https://coincoop.github.io/mywordpress/?post_type=product&#038;p=588</guid>
->>>>>>> 1d65eddbcf29cda8c69901866526e3f5f087f8cb
 
 					<description><![CDATA[This is a simple product.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-6b151a1 elementor-widget elementor-widget-ube-heading" data-id="6b151a1" data-element_type="widget" data-widget_type="ube-heading.default">
@@ -107,11 +51,7 @@
 <li>Full coverage</li>
 <li>Soft yet sturdy construction with four-way stretch</li>
 </ul>
-<<<<<<< HEAD
 <p><img class="alignnone size-full wp-image-592" src="https://coincoop.github.io/mywordpress/wp-content/uploads/2022/10/product-09.jpg" alt="" width="586" height="834" /></p>
-=======
-<p><img loading="lazy" class="alignnone size-full wp-image-589" src="https://coincoop.github.io/mywordpress/wp-content/uploads/2022/10/product-09.jpg" alt="" width="586" height="834" /></p>
->>>>>>> 1d65eddbcf29cda8c69901866526e3f5f087f8cb
 </div>
 </div>
 </div>
@@ -124,69 +64,15 @@
 		
 			</item>
 		<item>
-<<<<<<< HEAD
-=======
-		<title>SUMMER DRESS</title>
-		<link>https://coincoop.github.io/mywordpress/san-pham/summer-dress-2/</link>
-					<comments>https://coincoop.github.io/mywordpress/san-pham/summer-dress-2/#respond</comments>
-		
-		<dc:creator><![CDATA[lenguyenhaithuy]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 14:51:30 +0000</pubDate>
-				<guid isPermaLink="false">https://coincoop.github.io/mywordpress/?post_type=product&#038;p=583</guid>
-
-					<description><![CDATA[This is a simple product.]]></description>
-										<content:encoded><![CDATA[<div class="elementor-element elementor-element-f3df2d1 elementor-widget elementor-widget-ube-heading" data-id="f3df2d1" data-element_type="widget" data-widget_type="ube-heading.default">
-<div class="elementor-widget-container">
-<div class="ube-heading">
-<h2 class="ube-heading-title">DESCRIPTION</h2>
-<div class="ube-heading-description">Medium-support sports bra with strategic support for moderate-impact sports. The front has good support and fits very well thanks to the preformed cups and fine layer of foam that covers the entire front. Double fabric layer at the back of the top with a racer back for better support during exercise.</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-4f3d0b2 elementor-widget elementor-widget-ube-heading" data-id="4f3d0b2" data-element_type="widget" data-widget_type="ube-heading.default">
-<div class="elementor-widget-container">
-<div class="ube-heading">
-<h2 class="ube-heading-title">BENEFITS</h2>
-<div class="ube-heading-description">
-<ul class="pl-4">
-<li>Made from 79% recycled plastic bottles (RPET) and 21% spandex</li>
-<li>Recyclable with ReGirlfriend</li>
-<li>Designed for low-impact workouts</li>
-<li>High neck</li>
-<li>Adjustable criss-cross straps</li>
-<li>Full coverage</li>
-<li>Soft yet sturdy construction with four-way stretch</li>
-</ul>
-<p><img loading="lazy" class="alignnone size-full wp-image-584" src="https://coincoop.github.io/mywordpress/wp-content/uploads/2022/10/product-14-1.jpg" alt="" width="586" height="834" /></p>
-</div>
-</div>
-</div>
-</div>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://coincoop.github.io/mywordpress/san-pham/summer-dress-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
->>>>>>> 1d65eddbcf29cda8c69901866526e3f5f087f8cb
 		<title>STORAGE BACKPACKS</title>
 		<link>https://coincoop.github.io/mywordpress/san-pham/storage-backpacks/</link>
 					<comments>https://coincoop.github.io/mywordpress/san-pham/storage-backpacks/#respond</comments>
 		
 		<dc:creator><![CDATA[lenguyenhaithuy]]></dc:creator>
-<<<<<<< HEAD
 		<pubDate>Tue, 18 Oct 2022 06:56:07 +0000</pubDate>
 				<guid isPermaLink="false">https://coincoop.github.io/mywordpress/?post_type=product&#038;p=586</guid>
 
 					<description><![CDATA[DESCRIPTION Medium-support sports bra with strategic support for moderate-impact sports. The front has good support and fits very well thanks to the preformed cups and fine layer of foam that covers the entire front. Double fabric layer at the back of the top with a racer back for better support during exercise. BENEFITS Made from [&#8230;]]]></description>
-=======
-		<pubDate>Tue, 11 Oct 2022 13:54:32 +0000</pubDate>
-				<guid isPermaLink="false">https://coincoop.github.io/mywordpress/?post_type=product&#038;p=578</guid>
-
-					<description><![CDATA[This is a simple product.]]></description>
->>>>>>> 1d65eddbcf29cda8c69901866526e3f5f087f8cb
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-7b1446b elementor-widget elementor-widget-ube-heading" data-id="7b1446b" data-element_type="widget" data-widget_type="ube-heading.default">
 <div class="elementor-widget-container">
 <div class="ube-heading">
@@ -209,11 +95,7 @@
 <li>Full coverage</li>
 <li>Soft yet sturdy construction with four-way stretch</li>
 </ul>
-<<<<<<< HEAD
 <p><img loading="lazy" class="alignnone size-full wp-image-587" src="https://coincoop.github.io/mywordpress/wp-content/uploads/2022/10/product-08.jpg" alt="" width="586" height="834" /></p>
-=======
-<p><img loading="lazy" class="alignnone size-full wp-image-579" src="https://coincoop.github.io/mywordpress/wp-content/uploads/2022/10/product-08.jpg" alt="" width="586" height="834" /></p>
->>>>>>> 1d65eddbcf29cda8c69901866526e3f5f087f8cb
 </div>
 </div>
 </div>
@@ -484,6 +366,50 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://coincoop.github.io/mywordpress/san-pham/late-shoulder-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BRILLIANT GREEN JEANS</title>
+		<link>https://coincoop.github.io/mywordpress/san-pham/brilliant-green-jeans/</link>
+					<comments>https://coincoop.github.io/mywordpress/san-pham/brilliant-green-jeans/#respond</comments>
+		
+		<dc:creator><![CDATA[lenguyenhaithuy]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 07:43:32 +0000</pubDate>
+				<guid isPermaLink="false">https://coincoop.github.io/mywordpress/?post_type=product&#038;p=487</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-e81a225 elementor-widget elementor-widget-ube-heading" data-id="e81a225" data-element_type="widget" data-widget_type="ube-heading.default">
+<div class="elementor-widget-container">
+<div class="ube-heading">
+<h2 class="ube-heading-title">DESCRIPTION</h2>
+<div class="ube-heading-description">Medium-support sports bra with strategic support for moderate-impact sports. The front has good support and fits very well thanks to the preformed cups and fine layer of foam that covers the entire front. Double fabric layer at the back of the top with a racer back for better support during exercise.</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-583f132 elementor-widget elementor-widget-ube-heading" data-id="583f132" data-element_type="widget" data-widget_type="ube-heading.default">
+<div class="elementor-widget-container">
+<div class="ube-heading">
+<h2 class="ube-heading-title">BENEFITS</h2>
+<div class="ube-heading-description">
+<ul class="pl-4">
+<li>Made from 79% recycled plastic bottles (RPET) and 21% spandex</li>
+<li>Recyclable with ReGirlfriend</li>
+<li>Designed for low-impact workouts</li>
+<li>High neck</li>
+<li>Adjustable criss-cross straps</li>
+<li>Full coverage</li>
+<li>Soft yet sturdy construction with four-way stretch.</li>
+</ul>
+<p><img loading="lazy" class="alignnone size-full wp-image-490" src="https://coincoop.github.io/mywordpress/wp-content/uploads/2022/10/product-16-c.jpg" alt="" width="586" height="834" /></p>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://coincoop.github.io/mywordpress/san-pham/brilliant-green-jeans/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
