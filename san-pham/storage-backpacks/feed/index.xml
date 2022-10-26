@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/storage-backpacks/feed/" rel="self" type="application/rss+xml" />
 	<link>https://coincoop.github.io/mywordpress/san-pham/storage-backpacks/</link>
 	<description></description>
-	<lastBuildDate>Tue, 18 Oct 2022 06:56:07 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Oct 2022 13:54:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
