@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <br />
 <b>Deprecated</b>:  Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in <b>E:\xampp\htdocs\myproject\wordpress\wp-includes\Requests\Cookie\Jar.php</b> on line <b>63</b><br />
 <br />
@@ -18,6 +19,8 @@
 <b>Deprecated</b>:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in <b>E:\xampp\htdocs\myproject\wordpress\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php</b> on line <b>82</b><br />
 <br />
 <b>Deprecated</b>:  Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in <b>E:\xampp\htdocs\myproject\wordpress\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php</b> on line <b>91</b><br />
+=======
+>>>>>>> 24f0b7c27850ad43d7ab79cc919a0019f97f44b6
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -36,6 +39,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+<<<<<<< HEAD
 	<generator>https://wordpress.org/?v=6.0.3</generator>
+=======
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+>>>>>>> 24f0b7c27850ad43d7ab79cc919a0019f97f44b6
 </channel>
 </rss>
