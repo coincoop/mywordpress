@@ -11,7 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed//" rel="self" type="application/rss+xml" />
 	<link>https://coincoop.github.io/mywordpress/</link>
 	<description></description>
+<<<<<<< HEAD
 	<lastBuildDate>Sun, 30 Oct 2022 15:59:27 +0000</lastBuildDate>
+=======
+	<lastBuildDate>Sat, 29 Oct 2022 13:09:20 +0000</lastBuildDate>
+>>>>>>> db39d51d250cba4e05c7b09a23aa9cc63be67f47
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
