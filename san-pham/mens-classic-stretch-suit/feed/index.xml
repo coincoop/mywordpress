@@ -9,17 +9,13 @@
 	<title>
 	Các phản hồi luận về: Men’s classic stretch suit	</title>
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/mens-classic-stretch-suit/feed/" rel="self" type="application/rss+xml" />
-	<link>https://coincoop.github.io/mywordpress/san-pham/mens-classic-stretch-suit/</link>
+	<link>https://coincoop.github.io/mywordpress//san-pham/mens-classic-stretch-suit/</link>
 	<description></description>
 	<lastBuildDate>Tue, 18 Oct 2022 13:08:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-<<<<<<< HEAD
 	<generator>https://wordpress.org/?v=6.0.3</generator>
-=======
-	<generator>https://wordpress.org/?v=6.0.2</generator>
->>>>>>> 24f0b7c27850ad43d7ab79cc919a0019f97f44b6
 </channel>
 </rss>
