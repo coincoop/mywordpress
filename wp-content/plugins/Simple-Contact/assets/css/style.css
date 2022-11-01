@@ -172,60 +172,108 @@ html.aml-pu-fullscreen-active body {
 
 .autoAdsMaxLead-widget .autoAdsMaxLead-widget-menu-group {
 	background-size: 32px;
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_menu.png) !important
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_menu.png) !important
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 .autoAdsMaxLead-widget .float-btn-group.open .autoAdsMaxLead-widget-menu-group {
 	background-size: 25px;
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_close.png) !important
 }
 
 .autoAdsMaxLead-widget .autoAdsMaxLead-widget-menu-contact-form {
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_contact_form.svg) !important;
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_close.png) !important
+}
+
+.autoAdsMaxLead-widget .autoAdsMaxLead-widget-menu-contact-form {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_contact_form.svg) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-color: #f7a400 !important
 }
 
 .autoAdsMaxLead-widget .autoAdsMaxLead-widget-menu-click-to-call {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_click_to_call.svg) !important;
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_click_to_call.svg) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-color: #509600 !important
 }
 
 .autoAdsMaxLead-widget .autoAdsMaxLead-widget-menu-line {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_line.png) !important;
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_line.png) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-color: #00b800 !important
 }
 
 .autoAdsMaxLead-widget .autoAdsMaxLead-widget-menu-facebook {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_messenger.svg) !important;
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_messenger.svg) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-color: #0084ff !important
 }
 
 .autoAdsMaxLead-widget .autoAdsMaxLead-widget-menu-google-map {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_map.svg) !important;
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_map.svg) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-color: #00b8d4 !important
 }
 
 .autoAdsMaxLead-widget .autoAdsMaxLead-widget-menu-whatsapp {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_whatsapp.svg) !important;
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_whatsapp.svg) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-color: #25d366 !important
 }
 
 .autoAdsMaxLead-widget .autoAdsMaxLead-widget-menu-skype {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_skype.png) !important
 }
 
 .autoAdsMaxLead-widget .autoAdsMaxLead-widget-menu-zalo {
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_zalo.svg) !important;
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_skype.png) !important
+}
+
+.autoAdsMaxLead-widget .autoAdsMaxLead-widget-menu-zalo {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_zalo.svg) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-color: #0068ff !important
 }
 
 .autoAdsMaxLead-widget .autoAdsMaxLead-widget-menu-tawk-to {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_tawkto.svg) !important;
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_tawkto.svg) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-color: #03a84e !important
 }
 
 .autoAdsMaxLead-widget .autoAdsMaxLead-widget-menu-download-doc {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_download_doc.svg) !important;
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_download_doc.svg) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-color: #474fff !important
 }
 
@@ -253,7 +301,11 @@ html.aml-pu-fullscreen-active body {
 	width: 22px;
 	display: block;
 	position: relative;
+<<<<<<< HEAD
 	background: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/close.png) !important;
+=======
+	background: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/close.png) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-size: 22px;
 	background-repeat: no-repeat
 }
@@ -261,7 +313,11 @@ html.aml-pu-fullscreen-active body {
 .autoAdsMaxLead-widget-google-map-popup-close-icon {
 	height: 100%;
 	width: 100%;
+<<<<<<< HEAD
 	background: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/map_close.svg) !important;
+=======
+	background: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/map_close.svg) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-repeat: round
 }
 
@@ -1257,7 +1313,11 @@ div.autoAdsMaxLead-widget-tawk-to-popup-container {
 }
 
 div.autoAdsMaxLead-widget-tawk-to-popup-container .autoAdsMaxLead-widget-icon-close {
+<<<<<<< HEAD
 	background: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/icon_close.png) !important
+=======
+	background: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/icon_close.png) !important
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 div.autoAdsMaxLead-widget-click-to-call-popup-container.hide,
@@ -1556,7 +1616,11 @@ textarea.autoAdsMaxLead-widget-form-textarea::placeholder {
 	-webkit-border-radius: 100px !important;
 	-moz-border-radius: 100px !important;
 	cursor: pointer !important;
+<<<<<<< HEAD
 	background: #f5f6fa url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_upload.png) no-repeat right center;
+=======
+	background: #f5f6fa url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_upload.png) no-repeat right center;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	padding-right: 22px
 }
 
@@ -1892,7 +1956,11 @@ div.autoAdsMaxLead-widget-popup-group button {
 	top: -15px !important;
 	width: 100% !important;
 	height: 100% !important;
+<<<<<<< HEAD
 	background: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_click_close.svg) no-repeat center center
+=======
+	background: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_click_close.svg) no-repeat center center
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 .aml_dk-desktop .aml-close:hover {
@@ -2162,7 +2230,11 @@ div.autoAdsMaxLead-widget-popup-group button {
 	border: none !important;
 	width: 14px !important;
 	height: 14px !important;
+<<<<<<< HEAD
 	background: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_click_close.svg) no-repeat center center;
+=======
+	background: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_click_close.svg) no-repeat center center;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-color: transparent;
 	position: absolute;
 	top: 18px !important;
@@ -2672,7 +2744,11 @@ div.autoAdsMaxLead-widget div {
 	border-radius: 50%;
 	cursor: pointer;
 	z-index: 999998 !important;
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/fb_icon_close.png) !important;
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/fb_icon_close.png) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-repeat: no-repeat;
 	background-position: center;
 	display: none
@@ -2751,7 +2827,11 @@ div.autoAdsMaxLead-widget div {
 }
 
 .validate-ok {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/checked-circle.png) !important;
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/checked-circle.png) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-repeat: no-repeat !important;
 	background-position: 98% center !important
 }
@@ -2775,7 +2855,11 @@ div.autoAdsMaxLead-widget div {
 }
 
 .autoAdsMaxLead-widget-popup-loader {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/loader32x32.gif);
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/loader32x32.gif);
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	width: 32px;
 	height: 32px;
 	position: fixed;
@@ -2785,7 +2869,11 @@ div.autoAdsMaxLead-widget div {
 }
 
 #autoAdsMaxLead_widget_facebook_popup .autoAdsMaxLead-widget-icon-close {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/fb_icon_close.png) !important;
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/fb_icon_close.png) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-repeat: no-repeat !important;
 	background-position: center !important;
 	width: 50px !important;
@@ -2854,6 +2942,7 @@ div.autoAdsMaxLead-widget div {
 }
 
 .autoAdsMaxLead-Mobile .mobile-background .autoAdsMaxLead-widget-menu-contact-form {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_contact_form.svg) !important
 }
 
@@ -2883,6 +2972,37 @@ div.autoAdsMaxLead-widget div {
 
 .autoAdsMaxLead-Mobile .mobile-background .autoAdsMaxLead-widget-menu-download-doc {
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_download_doc.svg) !important
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_contact_form.svg) !important
+}
+
+.autoAdsMaxLead-Mobile .mobile-background .autoAdsMaxLead-widget-menu-click-to-call {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_click_to_call.svg) !important
+}
+
+.autoAdsMaxLead-Mobile .mobile-background .autoAdsMaxLead-widget-menu-facebook {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_facebook.svg) !important
+}
+
+.autoAdsMaxLead-Mobile .mobile-background .autoAdsMaxLead-widget-menu-zalo {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_m_icon_zalo.svg) !important
+}
+
+.autoAdsMaxLead-Mobile .mobile-background .autoAdsMaxLead-widget-menu-tawk-to {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_livechat.svg) !important
+}
+
+.autoAdsMaxLead-Mobile .mobile-background .autoAdsMaxLead-widget-menu-google-map {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_map.svg) !important
+}
+
+.autoAdsMaxLead-Mobile .mobile-background .autoAdsMaxLead-widget-menu-whatsapp {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_whatsapp.svg) !important
+}
+
+.autoAdsMaxLead-Mobile .mobile-background .autoAdsMaxLead-widget-menu-download-doc {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_download_doc.svg) !important
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 #autoadsmaxlead_contact_form {
@@ -3160,14 +3280,22 @@ div.autoAdsMaxLead-widget div {
 	line-height: 40px;
 	height: 16px;
 	width: 16px;
+<<<<<<< HEAD
 	background: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_pin.svg) no-repeat center center
+=======
+	background: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_pin.svg) no-repeat center center
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 .aml-map-head-colapse-image {
 	line-height: 40px;
 	height: 16px;
 	width: 16px;
+<<<<<<< HEAD
 	background: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/list_colpase.svg) no-repeat center center
+=======
+	background: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/list_colpase.svg) no-repeat center center
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 .aml-map-head-colapse-content {
@@ -3822,6 +3950,7 @@ div.autoAdsMaxLead-widget div {
 
 
 .aml_dk-style-gradient-vertical.dark .aml_dk-channel-facebook {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_messenger.svg)
 }
 
@@ -3831,12 +3960,27 @@ div.autoAdsMaxLead-widget div {
 
 .aml_dk-style-gradient-vertical.dark .aml_dk-channel-click_to_call {
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_click_to_call.svg)
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_messenger.svg)
+}
+
+.aml_dk-style-gradient-vertical.dark .aml_dk-channel-zalo {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_zalo.svg)
+}
+
+.aml_dk-style-gradient-vertical.dark .aml_dk-channel-click_to_call {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_click_to_call.svg)
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 
 
 .aml_dk-style-gradient-vertical.dark .aml_dk-channel-google_map {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_map.svg)
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_map.svg)
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 
@@ -3879,6 +4023,7 @@ div.autoAdsMaxLead-widget div {
 }
 
 .aml_dk-style-square .aml_dk-channel-facebook {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_messenger_square.svg)
 }
 
@@ -3900,10 +4045,34 @@ div.autoAdsMaxLead-widget div {
 
 .aml_dk-style-square .aml_dk-channel-google_map {
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_map_square.svg)
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_messenger_square.svg)
+}
+
+.aml_dk-style-square .aml_dk-channel-zalo {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_zalo_square.svg)
+}
+
+.aml_dk-style-square .aml_dk-channel-click_to_call {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_click_to_call_square.svg)
+}
+
+.aml_dk-style-square .aml_dk-channel-tawk_to {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_tawkto_square.svg)
+}
+
+.aml_dk-style-square .aml_dk-channel-contact_form {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_contact_form_square.svg)
+}
+
+.aml_dk-style-square .aml_dk-channel-google_map {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_map_square.svg)
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 
 .aml_dk-style-square .aml_dk-channel-whatsapp {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_whatsapp_square.svg)
 }
 
@@ -3913,6 +4082,17 @@ div.autoAdsMaxLead-widget div {
 
 .aml_dk-style-square .aml_dk-channel-promotion {
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_promotion_square.svg)
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_whatsapp_square.svg)
+}
+
+.aml_dk-style-square .aml_dk-channel-download_doc {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_download_doc_square.svg)
+}
+
+.aml_dk-style-square .aml_dk-channel-promotion {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_promotion_square.svg)
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 .aml_dk-desktop.aml_dk-style-square .aml_dk-channel-facebook .aml-text-content {
@@ -4005,6 +4185,7 @@ div.autoAdsMaxLead-widget div {
 }
 
 .aml_dk-mobile.aml_dk-style-square .aml_dk-channel-facebook {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_messenger_square.svg)
 }
 
@@ -4038,6 +4219,41 @@ div.autoAdsMaxLead-widget div {
 
 .aml_dk-mobile.aml_dk-style-square .aml_dk-channel-promotion {
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_promotion_square.svg)
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_messenger_square.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-square .aml_dk-channel-zalo {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_zalo_square.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-square .aml_dk-channel-click_to_call {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_click_to_call_square.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-square .aml_dk-channel-tawk_to {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_tawkto_square.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-square .aml_dk-channel-contact_form {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_contact_form_square.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-square .aml_dk-channel-google_map {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_map_square.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-square .aml_dk-channel-whatsapp {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_whatsapp_square.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-square .aml_dk-channel-download_doc {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_download_doc_square.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-square .aml_dk-channel-promotion {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_promotion_square.svg)
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 .aml_dk-mobile.aml_dk-style-horizontal-default .aml_dk-flex-container>div,
@@ -4075,6 +4291,7 @@ div.autoAdsMaxLead-widget div {
 }
 
 .aml_dk-style-horizontal .aml_dk-channel-facebook {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/images/Messenger_On.svg)
 }
 
@@ -4140,6 +4357,73 @@ div.autoAdsMaxLead-widget div {
 
 .aml_dk-style-horizontal.dark .aml_dk-channel-download_doc {
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/images/widget_icon_dark_download_doc.svg)
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/Messenger_On.svg)
+}
+
+.aml_dk-style-horizontal .aml_dk-channel-zalo {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/Zalo_On.svg)
+}
+
+.aml_dk-style-horizontal .aml_dk-channel-click_to_call {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/Call_On.svg)
+}
+
+.aml_dk-style-horizontal .aml_dk-channel-tawk_to {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/ht_tawkto.svg)
+}
+
+.aml_dk-style-horizontal .aml_dk-channel-contact_form {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/ht_contact_form.svg)
+}
+
+.aml_dk-style-horizontal .aml_dk-channel-google_map {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/Location.svg)
+}
+
+.aml_dk-style-horizontal .aml_dk-channel-whatsapp {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/ht_whatsapp.svg)
+}
+
+.aml_dk-style-horizontal .aml_dk-channel-download_doc {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/ht_download_doc.svg)
+}
+
+.aml_dk-style-horizontal .aml_dk-channel-promotion {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_m_icon_light_promotion.svg)
+}
+
+.aml_dk-style-horizontal.dark .aml_dk-channel-facebook {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_icon_dark_messenger.svg)
+}
+
+.aml_dk-style-horizontal.dark .aml_dk-channel-zalo {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_icon_dark_zalo.svg)
+}
+
+.aml_dk-style-horizontal.dark .aml_dk-channel-click_to_call {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_icon_dark_click_to_call.svg)
+}
+
+.aml_dk-style-horizontal.dark .aml_dk-channel-tawk_to {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_icon_dark_tawkto.svg)
+}
+
+.aml_dk-style-horizontal.dark .aml_dk-channel-contact_form {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_icon_dark_contact_form.svg)
+}
+
+.aml_dk-style-horizontal.dark .aml_dk-channel-google_map {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_icon_dark_map.svg)
+}
+
+.aml_dk-style-horizontal.dark .aml_dk-channel-whatsapp {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_icon_dark_whatsapp.svg)
+}
+
+.aml_dk-style-horizontal.dark .aml_dk-channel-download_doc {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_icon_dark_download_doc.svg)
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 .aml_dk-style-horizontal {
@@ -4236,6 +4520,7 @@ div.autoAdsMaxLead-widget div {
 }
 
 .aml_dk-style-horizontal-default .aml_dk-channel-facebook {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/images/widget_m_icon_messenger.svg)
 }
 
@@ -4269,6 +4554,41 @@ div.autoAdsMaxLead-widget div {
 
 .aml_dk-style-horizontal-default .aml_dk-channel-promotion {
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_promotion.svg)
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_m_icon_messenger.svg)
+}
+
+.aml_dk-style-horizontal-default .aml_dk-channel-zalo {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_m_icon_zalo.svg)
+}
+
+.aml_dk-style-horizontal-default .aml_dk-channel-click_to_call {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_m_icon_click_to_call.svg)
+}
+
+.aml_dk-style-horizontal-default .aml_dk-channel-tawk_to {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_tawkto.svg)
+}
+
+.aml_dk-style-horizontal-default .aml_dk-channel-contact_form {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_contact_form.svg)
+}
+
+.aml_dk-style-horizontal-default .aml_dk-channel-google_map {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_m_icon_map.svg)
+}
+
+.aml_dk-style-horizontal-default .aml_dk-channel-whatsapp {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_whatsapp.svg)
+}
+
+.aml_dk-style-horizontal-default .aml_dk-channel-download_doc {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_download_doc.svg)
+}
+
+.aml_dk-style-horizontal-default .aml_dk-channel-promotion {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_promotion.svg)
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 .aml_dk-main-button {
@@ -4553,6 +4873,7 @@ div.autoAdsMaxLead-widget div {
 }
 
 .aml_dk-mobile.aml_dk-style-main-button .aml_dk-channel-facebook {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_messenger.svg)
 }
 
@@ -4586,6 +4907,41 @@ div.autoAdsMaxLead-widget div {
 
 .aml_dk-mobile.aml_dk-style-main-button .aml_dk-channel-promotion {
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_promotion.svg)
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_messenger.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-main-button .aml_dk-channel-zalo {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_m_icon_zalo.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-main-button .aml_dk-channel-click_to_call {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_click_to_call.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-main-button .aml_dk-channel-tawk_to {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_tawkto.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-main-button .aml_dk-channel-contact_form {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_contact_form.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-main-button .aml_dk-channel-google_map {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_map.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-main-button .aml_dk-channel-whatsapp {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_whatsapp.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-main-button .aml_dk-channel-download_doc {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_download_doc.svg)
+}
+
+.aml_dk-mobile.aml_dk-style-main-button .aml_dk-channel-promotion {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_m_icon_promotion.svg)
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 .aml_dk-mobile.aml_dk-style-main-button .aml-powered-by {
@@ -4673,6 +5029,7 @@ only screen and (device-width:414px) and (device-height:896px) and (-webkit-devi
 }
 
 .aml_dk-style-gradient-default .aml_dk-channel-facebook {
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/images/Messenger_On.svg)
 }
 
@@ -4738,6 +5095,73 @@ only screen and (device-width:414px) and (device-height:896px) and (-webkit-devi
 
 .aml_dk-style-gradient-default.dark .aml_dk-channel-download_doc {
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_download_doc.svg)
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/Messenger_On.svg)
+}
+
+.aml_dk-style-gradient-default .aml_dk-channel-zalo {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/Zalo_On.svg)
+}
+
+.aml_dk-style-gradient-default .aml_dk-channel-click_to_call {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/Call_On.svg)
+}
+
+.aml_dk-style-gradient-default .aml_dk-channel-tawk_to {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/ht_tawkto.svg)
+}
+
+.aml_dk-style-gradient-default .aml_dk-channel-contact_form {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/ht_contact_form.svg)
+}
+
+.aml_dk-style-gradient-default .aml_dk-channel-google_map {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/Location.svg)
+}
+
+.aml_dk-style-gradient-default .aml_dk-channel-whatsapp {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/ht_whatsapp.svg)
+}
+
+.aml_dk-style-gradient-default .aml_dk-channel-download_doc {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/ht_download_doc.svg)
+}
+
+.aml_dk-style-gradient-default .aml_dk-channel-promotion {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/ht_promotion.svg)
+}
+
+.aml_dk-style-gradient-default.dark .aml_dk-channel-facebook {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_messenger.svg)
+}
+
+.aml_dk-style-gradient-default.dark .aml_dk-channel-zalo {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_zalo.svg)
+}
+
+.aml_dk-style-gradient-default.dark .aml_dk-channel-click_to_call {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_click_to_call.svg)
+}
+
+.aml_dk-style-gradient-default.dark .aml_dk-channel-tawk_to {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_tawkto.svg)
+}
+
+.aml_dk-style-gradient-default.dark .aml_dk-channel-contact_form {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_contact_form.svg)
+}
+
+.aml_dk-style-gradient-default.dark .aml_dk-channel-google_map {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_map.svg)
+}
+
+.aml_dk-style-gradient-default.dark .aml_dk-channel-whatsapp {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_whatsapp.svg)
+}
+
+.aml_dk-style-gradient-default.dark .aml_dk-channel-download_doc {
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/widget_icon_dark_download_doc.svg)
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 
 .aml_dk-flex-item svg {
@@ -5094,7 +5518,11 @@ only screen and (device-width:414px) and (device-height:896px) and (-webkit-devi
 .aml-banner-popup .aml-btn-close {
 	width: 24px;
 	height: 24px;
+<<<<<<< HEAD
 	background: url('https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/banner_close.svg') no-repeat center center;
+=======
+	background: url('https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/banner_close.svg') no-repeat center center;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-color: #00000066;
 	border-radius: 4px
 }
@@ -5218,7 +5646,11 @@ only screen and (device-width:414px) and (device-height:896px) and (-webkit-devi
 	width: 60px !important;
 	height: 60px !important;
 	position: fixed !important;
+<<<<<<< HEAD
 	background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/css/images/fb_icon_close.svg) !important;
+=======
+	background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/css/images/fb_icon_close.svg) !important;
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	background-position: center !important;
 	background-size: cover !important;
 	cursor: pointer !important
@@ -5344,6 +5776,7 @@ only screen and (device-width:414px) and (device-height:896px) and (-webkit-devi
     font-size: 10.13px!important;
 }
 .aml_dk-channel-google_map {
+<<<<<<< HEAD
     background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/images/widget_icon_map.svg);
 }
 .aml_dk-channel-zalo {
@@ -5354,6 +5787,18 @@ only screen and (device-width:414px) and (device-height:896px) and (-webkit-devi
 }
 .aml_dk-channel-click_to_call {
     background-image: url(https://coincoop.github.io/mywordpress/wp-content/plugins/Simple-Contact/assets/images/widget_icon_click_to_call.svg);
+=======
+    background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_icon_map.svg);
+}
+.aml_dk-channel-zalo {
+    background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_icon_zalo.svg);
+}
+.aml_dk-channel-facebook {
+    background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_icon_messenger.svg);
+}
+.aml_dk-channel-click_to_call {
+    background-image: url(https://coincoop.github.io/mywordpress//wp-content/plugins/Simple-Contact/assets/images/widget_icon_click_to_call.svg);
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 }
 .simple-contact-mobile{display:block !important}
 .simple-contact-desktop{display:none !important}

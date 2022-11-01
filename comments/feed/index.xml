@@ -8,10 +8,18 @@
 <channel>
 	<title>
 	Bình luận cho Car	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://coincoop.github.io/mywordpress</link>
+	<atom:link href="http://localhost/myproject/wordpress/comments/feed//" rel="self" type="application/rss+xml" />
+	<link>https://coincoop.github.io/mywordpress/</link>
 	<description></description>
+<<<<<<< HEAD
 	<lastBuildDate>Tue, 01 Nov 2022 12:19:09 +0000</lastBuildDate>
+=======
+<<<<<<< HEAD
+	<lastBuildDate>Sun, 30 Oct 2022 15:59:27 +0000</lastBuildDate>
+=======
+	<lastBuildDate>Sat, 29 Oct 2022 13:09:20 +0000</lastBuildDate>
+>>>>>>> db39d51d250cba4e05c7b09a23aa9cc63be67f47
+>>>>>>> 708c7494bfb1760dc135e36482936ef516d297a1
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
